@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weekday Job Filter - README</title>
+</head>
+<body>
+
 <h1>Project Name: <strong>Weekday Job Filter</strong></h1>
 
 <p>This project is a React application built to provide a user interface for displaying job cards using data fetched from an API. Below are the instructions to start the project locally.</p>
@@ -62,4 +71,13 @@
 
 <p><strong>Disclaimer:</strong> Please ensure that you have gone through the code quality and made necessary adjustments before deploying the application to production.</p>
 
+<h2>Important Notes on Filter Implementation</h2>
+
+<p>Sir, I have changed the functionality of the filter a little bit as instead of AUTOMATIC FILTER, I have implemented MANUAL FILTER with the "APPLY FILTERS" button, which gives the user more command over the application. However, the functionality of the filter is exactly the same.</p>
+
+<p>If you want, I can implement AUTOMATIC FILTER too.</p>
+
 <p>Feel free to reach out if you have any questions or need further assistance. Happy coding!</p>
+
+</body>
+</html>
