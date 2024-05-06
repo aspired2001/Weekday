@@ -27,10 +27,10 @@
   <code>git clone &lt;repository-url&gt;</code>
   
   <li>Navigate to the project directory:</li>
-  <code>cd my-react-app</code>
+  <code>cd Weekday</code>
   
   <li>Install dependencies:</li>
-  <code>npm install</code>
+  <code> npm --force install</code>
 </ol>
 
 <h2>Running the Application</h2>
