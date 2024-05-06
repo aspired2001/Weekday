@@ -67,7 +67,7 @@
 
 <p>Please note that the API <code>https://api.weekday.technology/adhoc/getSampleJdJSON</code> mentioned in the project documentation is not valid and functional. Therefore, a custom API endpoint <code>data.json</code> has been created to simulate data retrieval for UI and JobCards creation.</p>
 
-<p>For any inquiries or assistance, please contact <a href="mailto:wajhoor2001@gmail.com">your-email@example.com</a>.</p>
+<p>For any inquiries or assistance, please contact <a href="mailto:wajhoor2001@gmail.com">wajhoor2001@gmail.com</a>.</p>
 
 <p><strong>Disclaimer:</strong> Please ensure that you have gone through the code quality and made necessary adjustments before deploying the application to production.</p>
 
