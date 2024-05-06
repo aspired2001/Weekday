@@ -75,9 +75,14 @@
 
 <p>Sir, I have changed the functionality of the filter a little bit as instead of AUTOMATIC FILTER, I have implemented MANUAL FILTER with the "APPLY FILTERS" button, which gives the user more command over the application. However, the functionality of the filter is exactly the same.</p>
 
+
 <p>If you want, I can implement AUTOMATIC FILTER too.</p>
 
 <p>Feel free to reach out if you have any questions or need further assistance. Happy coding!</p>
+
+
+
+![weekday](https://github.com/aspired2001/Weekday/assets/100749624/c302d2ea-7723-4444-a2b6-9a4303270bb0)
 
 </body>
 </html>
