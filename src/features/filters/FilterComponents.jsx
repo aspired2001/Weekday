@@ -4,7 +4,7 @@ import { FormControl, InputLabel, Select, MenuItem, Button, TextField, Grid } fr
 
 const FilterComponent = ({ applyFilters }) => {
     const [selectedRole, setSelectedRole] = useState('');
-    const [selectedDesignation, setSelectedDesignation] = useState('');
+
     const [selectedEmployees, setSelectedEmployees] = useState('');
     const [selectedExperience, setSelectedExperience] = useState('');
     const [selectedWorkLocation, setSelectedWorkLocation] = useState('');
@@ -14,7 +14,7 @@ const FilterComponent = ({ applyFilters }) => {
     const handleApplyFilters = () => {
         applyFilters({
             role: selectedRole,
-            designation: selectedDesignation,
+            
             employees: selectedEmployees,
             experience: selectedExperience,
             workLocation: selectedWorkLocation,
@@ -24,9 +24,9 @@ const FilterComponent = ({ applyFilters }) => {
     };
 
     return (
-        <Grid style={{ margin: '30px 0' }} container spacing={2}>
-            <Grid item xs={6} sm={3}>
-                <FormControl fullWidth>
+        <Grid container spacing={2} alignItems="flex-end">
+            <Grid item xs={12} sm={6} md={4} lg={2}>
+                <FormControl fullWidth variant="outlined">
                     <InputLabel id="role-label">Roles</InputLabel>
                     <Select
                         labelId="role-label"
@@ -36,27 +36,23 @@ const FilterComponent = ({ applyFilters }) => {
                         <MenuItem value="">All Roles</MenuItem>
                         <MenuItem value="Frontend">Frontend</MenuItem>
                         <MenuItem value="Backend">Backend</MenuItem>
+                        <MenuItem value="Fullstack">Fullstack</MenuItem>
+                        <MenuItem value="Data Scientist">Data Scientist</MenuItem>
+                        <MenuItem value="UX/UI">UX/UI</MenuItem>
+                        <MenuItem value="Product">Product Manager</MenuItem>
+                        <MenuItem value="DevOps">DevOps</MenuItem>
+                        <MenuItem value="Mobile App">Mobile App</MenuItem>
+                        <MenuItem value="Machine ">Machine Learning</MenuItem>
+                        <MenuItem value="Blockchain">Blockchain</MenuItem>
+                        <MenuItem value="Quality">Quality Assurance</MenuItem>
+                        <MenuItem value="Business ">Business Intelligence</MenuItem>
                     </Select>
                 </FormControl>
             </Grid>
 
-            <Grid item xs={6} sm={3}>
-                <FormControl fullWidth>
-                    <InputLabel id="designation-label">Designation</InputLabel>
-                    <Select
-                        labelId="designation-label"
-                        value={selectedDesignation}
-                        onChange={(e) => setSelectedDesignation(e.target.value)}
-                    >
-                        <MenuItem value="">All Designations</MenuItem>
-                        <MenuItem value="Designer Manager">Designer Manager</MenuItem>
-                        <MenuItem value="Graphic Designer">Graphic Designer</MenuItem>
-                    </Select>
-                </FormControl>
-            </Grid>
 
-            <Grid item xs={6} sm={3}>
-                <FormControl fullWidth>
+            <Grid item xs={12} sm={6} md={4} lg={2}>
+                <FormControl fullWidth variant="outlined">
                     <InputLabel id="employees-label">No of Employees</InputLabel>
                     <Select
                         labelId="employees-label"
@@ -77,8 +73,8 @@ const FilterComponent = ({ applyFilters }) => {
                 </FormControl>
             </Grid>
 
-            <Grid item xs={6} sm={3}>
-                <FormControl fullWidth>
+            <Grid item xs={12} sm={6} md={4} lg={2}>
+                <FormControl fullWidth variant="outlined">
                     <InputLabel id="experience-label">Experience</InputLabel>
                     <Select
                         labelId="experience-label"
@@ -100,8 +96,8 @@ const FilterComponent = ({ applyFilters }) => {
                 </FormControl>
             </Grid>
 
-            <Grid item xs={6} sm={3}>
-                <FormControl fullWidth>
+            <Grid item xs={12} sm={6} md={4} lg={2}>
+                <FormControl fullWidth variant="outlined">
                     <InputLabel id="location-label">Work Location</InputLabel>
                     <Select
                         labelId="location-label"
@@ -116,9 +112,9 @@ const FilterComponent = ({ applyFilters }) => {
                 </FormControl>
             </Grid>
 
-            <Grid item xs={6} sm={3}>
-                <FormControl fullWidth>
-                    <InputLabel id="salary-label">Minimum Base Pay Salary</InputLabel>
+            <Grid item xs={12} sm={6} md={4} lg={2}>
+                <FormControl fullWidth variant="outlined">
+                    <InputLabel id="salary-label">Minimum Base Salary</InputLabel>
                     <Select
                         labelId="salary-label"
                         value={selectedSalary}
@@ -136,16 +132,17 @@ const FilterComponent = ({ applyFilters }) => {
                 </FormControl>
             </Grid>
 
-            <Grid item xs={6} sm={3}>
+            <Grid item xs={12} sm={6} md={4} lg={2}>
                 <TextField
                     fullWidth
+                    variant="outlined"
                     label="Search Company"
                     value={searchCompany}
                     onChange={(e) => setSearchCompany(e.target.value)}
                 />
             </Grid>
 
-            <Grid item xs={6} sm={3}>
+            <Grid item xs={12} sm={12} md={4} lg={2}>
                 <Button fullWidth variant="contained" color="primary" onClick={handleApplyFilters}>Apply Filters</Button>
             </Grid>
         </Grid>

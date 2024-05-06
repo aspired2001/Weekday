@@ -5,11 +5,12 @@
     "company": "Homework App",
     "location": "India",
     "description": "The Homework App is founded by serial entrepreneurs from IIT Bombay & IIT Hyderabad. We started with a belief that as a nation everyone needs a quality education at a very affordable cost, we strongly believe that education can change our lives as we have seen it from first-hand experience (both founders come from a middle-class family and have seen the impact good education created not only in our lives but those who are around us) It is apparent that the world is changing & it's full of new",
-    "experience": "1 year",
+    "experience": "1 ",
     "applyLink": "Easy Apply",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"1-10"
   },
   {
     "id": 2,
@@ -17,11 +18,12 @@
     "company": "Tech Solutions Ltd.",
     "location": "United States",
     "description": " Tech Solutions Ltd. is a leading technology company specializing in providing innovative solutions for businesses worldwide. We are committed to excellence and strive to deliver top-notch products and services to our clients.About the company: Tech Solutions Ltd. is a leading technology company specializing in providing innovative solutions for businesses worldwide. We are committed to excellence and strive to deliver top-notch products and services to our clients.",
-    "experience": "3 years",
+    "experience": "3 ",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "16-21 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"1-10"
   },
   {
     "id": 3,
@@ -29,11 +31,12 @@
     "company": "Data Insights Inc.",
     "location": "Canada",
     "description": "Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "2 years",
+    "experience": "2",
     "applyLink": "Apply Here",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "18-22 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"11-20"
   },
   {
     "id": 4,
@@ -41,11 +44,12 @@
     "company": "CodeCrafters",
     "location": "Australia",
     "description": "CodeCrafters is a software development company specializing in building scalable and secure backend systems for a wide range of applications. We are passionate about crafting high-quality code and delivering robust solutions to our clients.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "2 years",
+    "experience": "2 ",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "17-23 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"11-20"
   },
   {
     "id": 5,
@@ -53,11 +57,12 @@
     "company": "Creative Minds Ltd.",
     "location": "United Kingdom",
     "description": "Creative Minds Ltd. is a design agency dedicated to creating engaging and user-friendly experiences for our clients. We believe in the power of design to transform businesses and enhance user satisfaction.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "2 years",
+    "experience": "2 ",
     "applyLink": "Apply Here",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "16-24 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"21-30"
   },
   {
     "id": 6,
@@ -65,11 +70,12 @@
     "company": "InnovateTech",
     "location": "Germany",
     "description": "InnovateTech is a technology company focused on developing innovative products that solve real-world problems. Our team is passionate about pushing the boundaries of technology and creating impactful solutions.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "3 years",
+    "experience": "3",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "18-25 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"21-30"
   },
   {
     "id": 7,
@@ -78,11 +84,12 @@
     "location": "India",
 
     "description": "CloudTech Solutions is a leading provider of cloud-based solutions for businesses worldwide. Our team of DevOps engineers ensures seamless deployment and management of cloud infrastructure for our clients.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "2 years",
+    "experience": "2",
     "applyLink": "Easy Apply",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "17-26 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"21-30"
   },
   {
     "id": 8,
@@ -90,11 +97,12 @@
     "company": "AppWorks Inc.",
     "location": "United States",
     "description": "AppWorks Inc. is a mobile app development company specializing in creating innovative and user-friendly applications for iOS and Android platforms. We are dedicated to delivering high-quality mobile solutions that meet the needs of our clients.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "2 years",
+    "experience": "2",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "16-27 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"31-40"
   },
   {
     "id": 9,
@@ -102,11 +110,12 @@
     "company": "AI Innovations",
     "location": "Canada",
     "description": "AI Innovations is a research-driven company focused on advancing the field of artificial intelligence. Our team of machine learning engineers develops cutting-edge algorithms and models to solve complex problems across various domains.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "3 years",
+    "experience": "3",
     "applyLink": "Apply Here",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-28 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"31-40"
   },
   {
     "id": 10,
@@ -114,11 +123,12 @@
     "company": "WebTech Solutions",
     "location": "Australia",
     "description": " WebTech Solutions is a web development company specializing in building responsive and scalable frontend applications. We are passionate about crafting user-friendly interfaces that enhance the user experience.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "2 years",
+    "experience": "2",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "18-29 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"31-40"
   },
   {
     "id": 11,
@@ -126,11 +136,12 @@
     "company": "Tech Innovations",
     "location": "United States",
     "description": "Tech Innovations is at the forefront of AI research, pioneering breakthroughs in machine learning and natural language processing. Join us in shaping the future of intelligent systems.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "5 years",
+    "experience": "5",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "18-25 lakhs",
-    "posted": "posted 7 days ago"
+    "posted": "posted 7 days ago",
+    "EmployeesNo":"31-40"
   },
   {
     "id": 12,
@@ -138,11 +149,12 @@
     "company": "CodeCrafters",
     "location": "India",
     "description": "CodeCrafters is a software development company specializing in full-stack solutions. Join our team in creating innovative and scalable applications.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "3 years",
+    "experience": "3",
     "applyLink": "Apply Here",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "12-18 lakhs",
-    "posted": "posted 9 days ago"
+    "posted": "posted 9 days ago",
+    "EmployeesNo":"41-50"
   },
   {
     "id": 13,
@@ -150,11 +162,12 @@
     "company": "DataTech Solutions",
     "location": "Australia",
     "description": "DataTech Solutions focuses on building data infrastructure and analytics platforms. Join us in shaping the future of data-driven decision making.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "4 years",
+    "experience": "4",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "16-22 lakhs",
-    "posted": "posted 6 days ago"
+    "posted": "posted 6 days ago",
+    "EmployeesNo":"41-50"
   },
   {
     "id": 14,
@@ -162,11 +175,12 @@
     "company": "User Experience Labs",
     "location": "Germany",
     "description": "User Experience Labs conducts research to understand user behavior and preferences. Join our team in creating seamless user experiences.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "2 years",
+    "experience": "2",
     "applyLink": "Easy Apply",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "10-15 lakhs",
-    "posted": "posted 8 days ago"
+    "posted": "posted 8 days ago",
+    "EmployeesNo":"41-50"
   },
   {
     "id": 15,
@@ -174,11 +188,12 @@
     "company": "TechGenius",
     "location": "United Kingdom",
     "description": "TechGenius is a leader in software architecture, designing scalable and robust systems. Join us in architecting the next generation of software solutions.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "6 years",
+    "experience": "6",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "20-28 lakhs",
-    "posted": "posted 5 days ago"
+    "posted": "posted 5 days ago",
+    "EmployeesNo":"51-60"
   },
   {
     "id": 16,
@@ -186,11 +201,12 @@
     "company": "CloudTech Solutions",
     "location": "India",
     "description": "CloudTech Solutions specializes in cloud infrastructure and services. Join our team in building and maintaining scalable cloud solutions.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "3 years",
+    "experience": "3",
     "applyLink": "Apply Here",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "14-20 lakhs",
-    "posted": "posted 7 days ago"
+    "posted": "posted 7 days ago",
+    "EmployeesNo":"51-60"
   },
   {
     "id": 17,
@@ -198,11 +214,13 @@
     "company": "SecureTech Inc.",
     "location": "Canada",
     "description": "SecureTech Inc. is dedicated to providing cybersecurity solutions. Join us in protecting organizations from digital threats.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "2 years",
+    "experience": "2",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "12-18 lakhs",
-    "posted": "posted 6 days ago"
+    "posted": "posted 6 days ago",
+    "EmployeesNo":"61-100"
+
   },
   {
     "id": 18,
@@ -210,11 +228,12 @@
     "company": "AppWorks Inc.",
     "location": "United States",
     "description": "AppWorks Inc. specializes in creating visually stunning mobile applications. Join our design team in crafting beautiful user interfaces.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "4 years",
+    "experience": "4",
     "applyLink": "Easy Apply",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "16-22 lakhs",
-    "posted": "posted 8 days ago"
+    "posted": "posted 8 days ago",
+     "EmployeesNo":"61-100"
   },
   {
     "id": 19,
@@ -222,11 +241,12 @@
     "company": "Ethical AI Foundation",
     "location": "Germany",
     "description": "Ethical AI Foundation focuses on addressing ethical concerns in artificial intelligence. Join us in ensuring AI technologies are developed responsibly.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "3 years",
+    "experience": "3",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-21 lakhs",
-    "posted": "posted 5 days ago"
+    "posted": "posted 5 days ago",
+     "EmployeesNo":"61-100"
   },
   {
     "id": 20,
@@ -234,11 +254,12 @@
     "company": "Creative Code Solutions",
     "location": "Australia",
     "description": "Creative Code Solutions specializes in creating interactive and responsive web applications. Join our team in building engaging user interfaces.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "5 years",
+    "experience": "5",
     "applyLink": "Apply Here",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "18-25 lakhs",
-    "posted": "posted 9 days ago"
+    "posted": "posted 9 days ago",
+     "EmployeesNo":"101-500"
   },
   {
     "id": 21,
@@ -246,11 +267,13 @@
     "company": "Insightful Data",
     "location": "United Kingdom",
     "description": "Insightful Data specializes in advanced data analytics for businesses. Join our team in leveraging data to drive strategic decisions and innovation.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "5 years",
+    "experience": "5",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "20-30 lakhs",
-    "posted": "posted 4 days ago"
+    "posted": "posted 4 days ago",
+    "EmployeesNo":"101-500"
+
   },
   {
     "id": 22,
@@ -258,11 +281,12 @@
     "company": "CodeCrafters",
     "location": "India",
     "description": "CodeCrafters is a software development company known for its expertise in building robust backend systems. Join our team in developing scalable solutions.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "6 years",
+    "experience": "6",
     "applyLink": "Apply Here",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "25-35 lakhs",
-    "posted": "posted 3 days ago"
+    "posted": "posted 3 days ago",
+    "EmployeesNo":"101-500"
   },
   {
     "id": 23,
@@ -270,11 +294,12 @@
     "company": "CryptoTech Solutions",
     "location": "United States",
     "description": " CryptoTech Solutions is a pioneer in blockchain technology. Join our team in building decentralized applications and platforms.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "4 years",
+    "experience": "4",
     "applyLink": "Easy Apply",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "18-25 lakhs",
-    "posted": "posted 5 days ago"
+    "posted": "posted 5 days ago",
+    "EmployeesNo":"501+"
   },
   {
     "id": 24,
@@ -282,11 +307,12 @@
     "company": "Design Innovations",
     "location": "Canada",
     "description": "Design Innovations focuses on creating innovative and intuitive user experiences. Join our design team in shaping the future of digital interfaces.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "7 years",
+    "experience": "7",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "22-32 lakhs",
-    "posted": "posted 2 days ago"
+    "posted": "posted 2 days ago",
+    "EmployeesNo":"501+"
   },
   {
     "id": 25,
@@ -294,11 +320,12 @@
     "company": "CloudWorks Inc.",
     "location": "Australia",
     "description": "CloudWorks Inc. specializes in architecting cloud solutions for businesses. Join our team in designing and implementing scalable cloud architectures.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "5 years",
+    "experience": "5",
     "applyLink": "Apply Here",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "20-28 lakhs",
-    "posted": "posted 6 days ago"
+    "posted": "posted 6 days ago",
+    "EmployeesNo":"501+"
   },
   {
     "id": 26,
@@ -306,11 +333,12 @@
     "company": "AI Solutions Ltd.",
     "location": "Germany",
     "description": "AI Solutions Ltd. develops AI-powered products and solutions. Join our team in managing the development and launch of innovative AI products.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "4 years",
+    "experience": "4",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "18-25 lakhs",
-    "posted": "posted 3 days ago"
+    "posted": "posted 3 days ago",
+    "EmployeesNo":"501+"
   },
   {
     "id": 27,
@@ -318,11 +346,12 @@
     "company": "AppTech Innovations",
     "location": "India",
     "description": "AppTech Innovations specializes in mobile app development. Join our team in creating cutting-edge mobile applications.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "6 years",
+    "experience": "6",
     "applyLink": "Easy Apply",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "25-35 lakhs",
-    "posted": "posted 4 days ago"
+    "posted": "posted 4 days ago",
+    "EmployeesNo":"501+"
   },
   {
     "id": 28,
@@ -330,11 +359,12 @@
     "company": "ML Solutions Inc.",
     "location": "United Kingdom",
     "description": "ML Solutions Inc. focuses on developing machine learning solutions for various industries. Join our team in building AI-powered systems.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "7 years",
+    "experience": "7",
     "applyLink": "Apply Here",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "28-40 lakhs",
-    "posted": "posted 2 days ago"
+    "posted": "posted 2 days ago",
+    "EmployeesNo":"501+"
   },
   {
     "id": 29,
@@ -342,11 +372,12 @@
     "company": "WebTech Innovations",
     "location": "United States",
     "description": "WebTech Innovations specializes in creating dynamic and responsive frontend applications. Join our team in crafting engaging user interfaces.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "8 years",
+    "experience": "8",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "30-45 lakhs",
-    "posted": "posted 5 days ago"
+    "posted": "posted 5 days ago",
+    "EmployeesNo":"501+"
   },
   {
     "id": 30,
@@ -354,11 +385,12 @@
     "company": "DevOps Solutions",
     "location": "Canada",
     "description": "DevOps Solutions provides DevOps consulting and solutions. Join our team in implementing best practices for software development and deployment.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "6 years",
+    "experience": "6",
     "applyLink": "Apply Here",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "25-35 lakhs",
-    "posted": "posted 6 days ago"
+    "posted": "posted 6 days ago",
+    "EmployeesNo":"501+"
   },
   {
     "id":31,
@@ -366,11 +398,12 @@
     "company": "Homework App",
     "location": "India",
     "description": "The Homework App is founded by serial entrepreneurs from IIT Bombay & IIT Hyderabad. We started with a belief that as a nation everyone needs a quality education at a very affordable cost, we strongly believe that education can change our lives as we have seen it from first-hand experience (both founders come from a middle-class family and have seen the impact good education created not only in our lives but those who are around us) It is apparent that the world is changing & it's full of new possibilities.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "1 year",
+    "experience": "1",
     "applyLink": "Easy Apply",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"501+"
   },
   {
     "id": 32,
@@ -378,11 +411,12 @@
     "company": "Tech Solutions Ltd.",
     "location": "United States",
     "description": "Tech Solutions Ltd. is a leading technology company specializing in providing innovative solutions for businesses worldwide. We are committed to excellence and strive to deliver top-notch products and services to our clients.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "3 years",
+    "experience": "3",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"501+"
   },
   {
     "id": 33,
@@ -390,11 +424,12 @@
     "company": "Data Insights Inc.",
     "location": "Canada",
     "description": "Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "2 years",
+    "experience": "2",
     "applyLink": "Apply Here",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"501+"
   },
   {
     "id": 34,
@@ -402,11 +437,12 @@
     "company": "CodeCrafters",
     "location": "Australia",
     "description": "CodeCrafters is a software development company specializing in building scalable and secure backend systems for a wide range of applications. We are passionate about crafting high-quality code and delivering robust solutions to our clients.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "2 years",
+    "experience": "2",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"501+"
   },
   {
     "id": 35,
@@ -414,11 +450,12 @@
     "company": "Creative Minds Ltd.",
     "location": "United Kingdom",
     "description": "Creative Minds Ltd. is a design agency dedicated to creating engaging and user-friendly experiences for our clients. We believe in the power of design to transform businesses and enhance user satisfaction.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "2 years",
+    "experience": "2",
     "applyLink": "Apply Here",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"501+"
   },
   {
     "id": 36,
@@ -426,11 +463,12 @@
     "company": "InnovateTech",
     "location": "Germany",
     "description": "InnovateTech is a technology company focused on developing innovative products that solve real-world problems. Our team is passionate about pushing the boundaries of technology and creating impactful solutions.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "3 years",
+    "experience": "3",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"501+"
   },
   {
     "id": 37,
@@ -438,11 +476,12 @@
     "company": "CloudTech Solutions",
     "location": "India",
     "description": "CloudTech Solutions is a leading provider of cloud-based solutions for businesses worldwide. Our team of DevOps engineers ensures seamless deployment and management of cloud infrastructure for our clients.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "2 years",
+    "experience": "2",
     "applyLink": "Easy Apply",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"501+"
   },
   {
     "id": 38,
@@ -450,11 +489,12 @@
     "company": "AppWorks Inc.",
     "location": "United States",
     "description": " AppWorks Inc. is a mobile app development company specializing in creating innovative and user-friendly applications for iOS and Android platforms. We are dedicated to delivering high-quality mobile solutions that meet the needs of our clients.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "2 years",
+    "experience": "2",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"501+"
   },
   {
     "id": 39,
@@ -462,11 +502,12 @@
     "company": "Tech Innovations Ltd.",
     "location": "Canada",
     "description": "Tech Innovations Ltd. is a software development company focused on creating cutting-edge solutions for businesses worldwide. Our team of engineers is passionate about technology and dedicated to delivering high-quality software products.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "2 years",
+    "experience": "2",
     "applyLink": "Apply Here",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"101-500"
   },
   {
     "id": 40,
@@ -474,11 +515,12 @@
     "company": "AI Solutions",
     "location": "Australia",
     "description": "AI Solutions is a leading provider of AI-powered solutions for businesses worldwide. Our team of machine learning engineers develops advanced algorithms and models to solve complex problems and drive innovation.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "3 years",
+    "experience": "3",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
-    "posted": "posted 10 days ago"
+    "posted": "posted 10 days ago",
+    "EmployeesNo":"101-500"
   },
   {
     "id": 41,
@@ -486,11 +528,12 @@
     "company": "DataWorks Inc.",
     "location": "United States",
     "description": "DataWorks Inc. specializes in data engineering solutions. Join our team in building robust data pipelines and optimizing data workflows.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "4 years",
+    "experience": "4",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "$90,000 - $120,000 per year",
-    "posted": "Posted 2 days ago"
+    "posted": "Posted 2 days ago",
+    "EmployeesNo":"101-500"
   },
   {
     "id": 42,
@@ -498,11 +541,12 @@
     "company": "SecureTech Solutions",
     "location": "United Kingdom",
     "description": "SecureTech Solutions is a leader in cybersecurity services. Join our team in analyzing security threats and implementing defensive measures.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "3 years",
+    "experience": "3",
     "applyLink": "Apply Here",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "£40,000 - £60,000 per year",
-    "posted": "Posted 3 days ago"
+    "posted": "Posted 3 days ago",
+    "EmployeesNo":"101-500"
   },
   {
     "id": 43,
@@ -510,11 +554,12 @@
     "company": "TechGenius Ltd.",
     "location": "Australia",
     "description": "TechGenius Ltd. specializes in full stack development. Join our team in designing and implementing end-to-end solutions.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "5 years",
+    "experience": "5",
     "applyLink": "Easy Apply",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "AU$100,000 - AU$130,000 per year",
-    "posted": "Posted 4 days ago"
+    "posted": "Posted 4 days ago",
+    "EmployeesNo":"101-500"
   },
   {
     "id": 44,
@@ -522,11 +567,12 @@
     "company": "MarketEdge Solutions",
     "location": "Canada",
     "description": "MarketEdge Solutions focuses on product marketing strategies. Join our team in driving product awareness and market positioning.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "6 years",
+    "experience": "6",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "C$90,000 - C$110,000 per year",
-    "posted": "Posted 5 days ago"
+    "posted": "Posted 5 days ago",
+    "EmployeesNo":"101-500"
   },
   {
     "id": 45,
@@ -534,11 +580,12 @@
     "company": "CloudTech Innovations",
     "location": "India",
     "description": "CloudTech Innovations specializes in cloud-based DevOps solutions. Join our team in automating deployment processes and optimizing infrastructure.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "4 years",
+    "experience": "4",
     "applyLink": "Apply Here",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "₹10,00,000 - ₹15,00,000 per year",
-    "posted": "Posted 6 days ago"
+    "posted": "Posted 6 days ago",
+    "EmployeesNo":"101-500"
   },
   {
     "id": 46,
@@ -546,11 +593,12 @@
     "company": "QA Solutions LLC",
     "location": "United States",
     "description": "QA Solutions LLC provides software testing and quality assurance services. Join our team in ensuring the quality and reliability of software products.",
-    "experience": "3 years",
+    "experience": "3",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "$70,000 - $90,000 per year",
-    "posted": "Posted 2 days ago"
+    "posted": "Posted 2 days ago",
+    "EmployeesNo":"101-500"
   },
   {
     "id": 47,
@@ -558,11 +606,12 @@
     "company": "ITPro Solutions",
     "location": "United Kingdom",
     "description": "ITPro Solutions specializes in IT project management services. Join our team in leading and delivering successful IT projects.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "5 years",
+    "experience": "5",
     "applyLink": "Easy Apply",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "£50,000 - £70,000 per year",
-    "posted": "Posted 3 days ago"
+    "posted": "Posted 3 days ago",
+    "EmployeesNo":"101-500"
   },
   {
     "id": 48,
@@ -570,11 +619,12 @@
     "company": "Pixel Perfect Designs",
     "location": "Australia",
     "description": "Pixel Perfect Designs focuses on creating visually appealing user interfaces. Join our design team in crafting intuitive and engaging user experiences.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "4 years",
+    "experience": "4",
     "applyLink": "Apply Here",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "AU$80,000 - AU$110,000 per year",
-    "posted": "Posted 4 days ago"
+    "posted": "Posted 4 days ago",
+    "EmployeesNo":"101-500"
   },
   {
     "id": 49,
@@ -582,11 +632,12 @@
     "company": "SupportTech Inc.",
     "location": "Canada",
     "description": "SupportTech Inc. provides technical support services for software products. Join our team in resolving technical issues and providing customer assistance.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "3 years",
+    "experience": "3",
     "applyLink": "Apply Now",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "C$60,000 - C$80,000 per year",
-    "posted": "Posted 5 days ago"
+    "posted": "Posted 5 days ago",
+    "EmployeesNo":"101-500"
   },
   {
     "id": 50,
@@ -594,11 +645,272 @@
     "company": "Insight Analytics",
     "location": "India",
     "description": "Insight Analytics specializes in business intelligence solutions. Join our team in analyzing data and providing insights to drive business decisions.Data Insights Inc. is a data-driven company focused on delivering actionable insights to our clients. Our team of experts leverages cutting-edge technologies to analyze data and provide valuable insights that drive business growth.",
-    "experience": "4 years",
+    "experience": "4",
     "applyLink": "Apply Here",
     "refferal": "Unlock referal asks",
     "estimatedSalary": "₹8,00,000 - ₹12,00,000 per year",
-    "posted": "Posted 6 days ago"
+    "posted": "Posted 6 days ago",
+    "EmployeesNo":"101-500"
+  },
+   {
+    "id": 51,
+    "title": "Software Developer",
+    "company": "Tech Innovations Inc.",
+    "location": "United States",
+    "description": "Tech Innovations Inc. is a leading software development company specializing in creating innovative solutions for businesses worldwide. We are seeking a talented Software Developer to join our team and contribute to the design, development, and deployment of cutting-edge software applications.",
+    "experience": "2",
+    "applyLink": "Apply Now",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "$70,000 - $90,000 per year",
+    "posted": "Posted 3 days ago",
+    "EmployeesNo":"101-500"
+  },
+  {
+    "id": 52,
+    "title": "Data Scientist",
+    "company": "Data Dynamics Ltd.",
+    "location": "Canada",
+    "description": "Data Dynamics Ltd. is a data analytics company dedicated to helping businesses harness the power of data for informed decision-making. We are looking for a skilled Data Scientist to join our team and apply advanced analytics techniques to extract insights from large datasets.",
+    "experience": "3",
+    "applyLink": "Apply Now",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "CAD 80,000 - 100,000 per year",
+    "posted": "Posted 4 days ago",
+    "EmployeesNo":"101-500"
+  },
+  {
+    "id": 53,
+    "title": "Frontend Developer",
+    "company": "WebTech Solutions",
+    "location": "India",
+    "description": "WebTech Solutions is a web development agency specializing in creating interactive and user-friendly websites and web applications. We are seeking a skilled Frontend Developer to join our team and contribute to the development of engaging web experiences for our clients.",
+    "experience": "2",
+    "applyLink": "Easy Apply",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "INR 6 - 10 lakhs per annum",
+    "posted": "Posted 5 days ago",
+    "EmployeesNo":"11-20"
+  },
+  {
+    "id": 54,
+    "title": "Digital Marketing Specialist",
+    "company": "Digital Dynamics Inc.",
+    "location": "United Kingdom",
+    "description": "Digital Dynamics Inc. is a digital marketing agency specializing in helping businesses grow their online presence and reach their target audience. We are looking for a Digital Marketing Specialist to join our team and execute digital marketing campaigns that drive results.",
+    "experience": "3",
+    "applyLink": "Apply Now",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "£35,000 - £45,000 per year",
+    "posted": "Posted 6 days ago",
+    "EmployeesNo":"11-20"
+  },
+  {
+    "id": 55,
+    "title": "Systems Administrator",
+    "company": "SysAdmin Solutions",
+    "location": "Australia",
+    "description": "SysAdmin Solutions is a leading provider of IT infrastructure solutions and support services. We are seeking a Systems Administrator to join our team and manage the day-to-day operations of our clients' IT systems, ensuring reliability, security, and performance.",
+    "experience": "4",
+    "applyLink": "Apply Now",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "AUD 70,000 - 90,000 per year",
+    "posted": "Posted 7 days ago",
+    "EmployeesNo":"11-20"
+  },
+  {
+    "id": 56,
+    "title": "Sales Manager",
+    "company": "SalesGenius Inc.",
+    "location": "United States",
+    "description": "SalesGenius Inc. is a sales consultancy firm specializing in helping businesses optimize their sales processes and increase revenue. We are looking for a dynamic and experienced Sales Manager to join our team and lead our sales efforts.",
+    "experience": "5",
+    "applyLink": "Easy Apply",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "$80,000 - $100,000 per year",
+    "posted": "Posted 8 days ago",
+    "EmployeesNo":"11-20"
+  },
+  {
+    "id": 57,
+    "title": "UI Designer",
+    "company": "PixelCraft Studios",
+    "location": "Canada",
+    "description": "PixelCraft Studios is a creative agency specializing in UI/UX design for digital products. We are seeking a talented UI Designer to join our team and create visually appealing and user-friendly interfaces for web and mobile applications.",
+    "experience": "3",
+    "applyLink": "Apply Now",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "CAD 65,000 - 85,000 per year",
+    "posted": "Posted 9 days ago",
+    "EmployeesNo":"11-20"
+  },
+  {
+    "id": 58,
+    "title": "Financial Analyst",
+    "company": "FinanceWorks Ltd.",
+    "location": "India",
+    "description": "FinanceWorks Ltd. is a financial services company specializing in providing comprehensive financial planning and analysis. We are looking for a skilled Financial Analyst to join our team and support our clients in making informed financial decisions.",
+    "experience": "2",
+    "applyLink": "Apply Now",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "INR 5 - 8 lakhs per annum",
+    "posted": "Posted 10 days ago",
+    "EmployeesNo":"11-20"
+  },
+  {
+    "id": 59,
+    "title": "Project Coordinator",
+    "company": "Project Dynamics Inc.",
+    "location": "United Kingdom",
+    "description": "Project Dynamics Inc. is a project management consultancy dedicated to helping organizations execute projects successfully. We are seeking a detail-oriented Project Coordinator to join our team and support project delivery efforts for our clients.",
+    "experience": "1",
+    "applyLink": "Easy Apply",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "£25,000 - £35,000 per year",
+    "posted": "Posted 11 days ago",
+    "EmployeesNo":"11-20"
+  },
+  {
+    "id": 60,
+    "title": "Human Resources Manager",
+    "company": "HR Solutions Ltd.",
+    "location": "Australia",
+    "description": "HR Solutions Ltd. is a human resources consulting firm specializing in providing HR solutions for businesses of all sizes. We are looking for an experienced Human Resources Manager to join our team and lead HR initiatives for our clients.",
+    "experience": "4",
+    "applyLink": "Apply Now",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "AUD 80,000 - 100,000 per year",
+    "posted": "Posted 12 days ago",
+    "EmployeesNo":"11-20"
+  },
+  {
+    "id": 61,
+    "title": "Content Marketing Specialist",
+    "company": "ContentWorks Inc.",
+    "location": "Canada",
+    "description": "ContentWorks Inc. is a content marketing agency dedicated to helping businesses create compelling content that engages audiences. We are seeking a talented Content Marketing Specialist to join our team and execute content marketing strategies for our clients.",
+    "experience": "2",
+    "applyLink": "Apply Now",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "CAD 50,000 - 70,000 per year",
+    "posted": "Posted 13 days ago",
+    "EmployeesNo":"11-20"
+  },
+  {
+    "id": 62,
+    "title": "Software Quality Assurance Engineer",
+    "company": "QualityTech Solutions",
+    "location": "United States",
+    "description": "QualityTech Solutions is a software development company committed to delivering high-quality products. We are looking for a meticulous Software Quality Assurance Engineer to join our team and ensure the reliability and functionality of our software applications.",
+    "experience": "3",
+    "applyLink": "Easy Apply",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "$65,000 - $85,000 per year",
+    "posted": "Posted 14 days ago",
+    "EmployeesNo":"11-20"
+  },
+  {
+    "id": 63,
+    "title": "Technical Support Specialist",
+    "company": "TechSupport Inc.",
+    "location": "Australia",
+    "description": "TechSupport Inc. is a leading provider of technical support services for businesses and individuals. We are seeking a dedicated Technical Support Specialist to join our team and assist our clients with resolving technical issues and inquiries.",
+    "experience": "2",
+    "applyLink": "Apply Now",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "AUD 55,000 - 75,000 per year",
+    "posted": "Posted 15 days ago",
+    "EmployeesNo":"11-20"
+  },
+  {
+    "id": 64,
+    "title": "Business Analyst",
+    "company": "Business Insights Group",
+    "location": "Canada",
+    "description": "Business Insights Group is a business consulting firm specializing in providing actionable insights for businesses to drive growth and innovation. We are seeking a talented Business Analyst to join our team and conduct data analysis and market research to support our clients' strategic initiatives.",
+    "experience": "3",
+    "applyLink": "Apply Now",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "CAD 70,000 - 90,000 per year",
+    "posted": "Posted 16 days ago",
+    "EmployeesNo":"11-20"
+  },
+  {
+    "id": 65,
+    "title": "UX Researcher",
+    "company": "UserExperience Labs",
+    "location": "United Kingdom",
+    "description": "UserExperience Labs is a research firm dedicated to understanding user behavior and preferences. We are seeking a UX Researcher to join our team and conduct user research to inform the design and development of digital products.",
+    "experience": "2",
+    "applyLink": "Easy Apply",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "£40,000 - £50,000 per year",
+    "posted": "Posted 17 days ago",
+    "EmployeesNo":"11-20"
+  },
+  {
+    "id": 66,
+    "title": "DevOps Engineer",
+    "company": "DevOps Solutions Ltd.",
+    "location": "India",
+    "description": "DevOps Solutions Ltd. is a technology company specializing in DevOps solutions and services. We are seeking a skilled DevOps Engineer to join our team and help us design, implement, and maintain scalable and efficient infrastructure solutions.",
+    "experience": "3",
+    "applyLink": "Apply Now",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "INR 10 - 15 lakhs per annum",
+    "posted": "Posted 18 days ago",
+    "EmployeesNo":"11-20"
+  },
+  {
+    "id": 67,
+    "title": "Sales Representative",
+    "company": "SalesPro Solutions",
+    "location": "United States",
+    "description": "SalesPro Solutions is a sales consultancy firm specializing in helping businesses optimize their sales processes and achieve revenue growth. We are looking for energetic and motivated Sales Representatives to join our team and drive sales for our clients.",
+    "experience": "1",
+    "applyLink": "Apply Now",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "$50,000 - $70,000 per year",
+    "posted": "Posted 19 days ago",
+    "EmployeesNo":"11-20"
+  },
+  {
+    "id": 68,
+    "title": "Cybersecurity Analyst",
+    "company": "CyberGuard Solutions",
+    "location": "Australia",
+    "description": "CyberGuard Solutions is a cybersecurity firm dedicated to protecting businesses from cyber threats. We are seeking a talented Cybersecurity Analyst to join our team and help us identify and mitigate security risks for our clients.",
+    "experience": "2",
+    "applyLink": "Easy Apply",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "AUD 60,000 - 80,000 per year",
+    "posted": "Posted 20 days ago",
+    "EmployeesNo":"11-20"
+  },
+  {
+    "id": 69,
+    "title": "Content Editor",
+    "company": "ContentMasters Inc.",
+    "location": "Canada",
+    "description": "ContentMasters Inc. is a content creation agency specializing in producing high-quality written content. We are seeking a skilled Content Editor to join our team and ensure the accuracy, clarity, and consistency of our content across various platforms.",
+    "experience": "3",
+    "applyLink": "Apply Now",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "CAD 55,000 - 75,000 per year",
+    "posted": "Posted 21 days ago",
+    "EmployeesNo":"11-20"
+  },
+  {
+    "id": 70,
+    "title": "Business Development Representative",
+    "company": "BizDev Solutions",
+    "location": "United Kingdom",
+    "description": "BizDev Solutions is a business development consultancy firm specializing in helping companies expand their market reach and grow their customer base. We are seeking a proactive and results-driven Business Development Representative to join our team and drive lead generation efforts.",
+    "experience": "1",
+    "applyLink": "Apply Now",
+    "referral": "Unlock referral asks",
+    "estimatedSalary": "£25,000 - £35,000 per year",
+    "posted": "Posted 22 days ago",
+    "EmployeesNo":"11-20"
   }
  
 ]

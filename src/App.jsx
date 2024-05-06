@@ -1,5 +1,4 @@
-// App.jsx
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import JobList from './components/JobList';
 import FilterComponent from './features/filters/FilterComponents';
 import data from './data.json';
@@ -13,25 +12,35 @@ const App = () => {
     // Simulating fetch data from API
     setTimeout(() => {
       setJobs(data);
+      setFilteredJobs(data); // Set filteredJobs initially to all jobs
       setLoading(false);
     }, 1000);
   }, []);
 
+  const checkSalaryInRange = (jobSalary, selectedSalary) => {
+    // Extract the numeric values from the salary strings
+    const jobSalaryNumeric = parseInt(jobSalary.split('-')[0]);
+    const selectedSalaryNumeric = parseInt(selectedSalary.split('-')[0]);
+
+    // Check if the job's salary is greater than or equal to the selected salary range
+    return jobSalaryNumeric >= selectedSalaryNumeric;
+  };
+
   const applyFilters = (filters) => {
-    const { role, designation, employees, experience, workLocation, salary, searchCompany } = filters;
+    console.log('Applying filters:', filters); // Log the filters being applied
+
+    const { role, employees, experience, workLocation, salary, searchCompany } = filters;
 
     const filtered = jobs.filter(job => {
       let passFilter = true;
 
-      if (role && job.title.toLowerCase() !== role.toLowerCase()) {
+      if (role && !job.title.toLowerCase().includes(role.toLowerCase())) {
         passFilter = false;
       }
 
-      if (designation && job.designation.toLowerCase() !== designation.toLowerCase()) {
-        passFilter = false;
-      }
+     
 
-      if (employees && job.employees !== employees) {
+      if (employees && job.EmployeesNo !== employees) { // Update comparison with EmployeesNo
         passFilter = false;
       }
 
@@ -54,22 +63,20 @@ const App = () => {
       return passFilter;
     });
 
+    console.log('Filtered jobs:', filtered); // Log the filtered jobs
+
     setFilteredJobs(filtered);
   };
 
-  const checkSalaryInRange = (salaryRange, minBasePay) => {
-    const salaryParts = salaryRange.split('-');
-    const minSalary = parseInt(salaryParts[0].replace(/\D/g, ''));
-    return minSalary >= parseInt(minBasePay);
-  };
-
   return (
-    <div>
+    <div style={{margin:'20px 20px'}} >
       <FilterComponent applyFilters={applyFilters} />
       {loading ? (
         <p>Loading...</p>
       ) : (
-        <JobList jobs={filteredJobs.length > 0 ? filteredJobs : jobs} />
+        <div style={{margin:'30px 0'}}>
+        <JobList jobs={filteredJobs} />
+        </div>
       )}
     </div>
   );
