@@ -1,4 +1,5 @@
-import  { useState, useEffect } from 'react';
+// App.jsx
+import React, { useState, useEffect } from 'react';
 import JobList from './components/JobList';
 import FilterComponent from './features/filters/FilterComponents';
 import data from './data.json';
@@ -17,50 +18,36 @@ const App = () => {
   }, []);
 
   const applyFilters = (filters) => {
-    // Destructure filters
     const { role, designation, employees, experience, workLocation, salary, searchCompany } = filters;
 
-    // Filter jobs based on selected filters
-    // Filter jobs based on selected filters
     const filtered = jobs.filter(job => {
-      // Apply filtering logic based on the selected filters
       let passFilter = true;
 
-      // Ensure job properties exist before accessing them
-      const { title, company, location, estimatedSalary } = job || {};
-
-      // Role filter
-      if (role && title && title.toLowerCase() !== role.toLowerCase()) {
+      if (role && job.title.toLowerCase() !== role.toLowerCase()) {
         passFilter = false;
       }
 
-      // Designation filter
-      if (designation && company && company.toLowerCase() !== designation.toLowerCase()) {
+      if (designation && job.designation.toLowerCase() !== designation.toLowerCase()) {
         passFilter = false;
       }
 
-      // Employees filter
-      if (employees && company && company.toLowerCase() !== employees.toLowerCase()) {
+      if (employees && job.employees !== employees) {
         passFilter = false;
       }
 
-      // Experience filter
-      if (experience && experience.toLowerCase() !== experience.toLowerCase()) {
+      if (experience && job.experience !== experience) {
         passFilter = false;
       }
 
-      // Work location filter
-      if (workLocation && location && location.toLowerCase() !== workLocation.toLowerCase()) {
+      if (workLocation && job.location.toLowerCase() !== workLocation.toLowerCase()) {
         passFilter = false;
       }
 
-      // Salary filter
-      if (salary && estimatedSalary && estimatedSalary.toLowerCase() !== salary.toLowerCase()) {
+      if (salary && !checkSalaryInRange(job.estimatedSalary, salary)) {
         passFilter = false;
       }
 
-      // Search company filter
-      if (searchCompany && company && !company.toLowerCase().includes(searchCompany.toLowerCase())) {
+      if (searchCompany && !job.company.toLowerCase().includes(searchCompany.toLowerCase())) {
         passFilter = false;
       }
 
@@ -68,6 +55,12 @@ const App = () => {
     });
 
     setFilteredJobs(filtered);
+  };
+
+  const checkSalaryInRange = (salaryRange, minBasePay) => {
+    const salaryParts = salaryRange.split('-');
+    const minSalary = parseInt(salaryParts[0].replace(/\D/g, ''));
+    return minSalary >= parseInt(minBasePay);
   };
 
   return (

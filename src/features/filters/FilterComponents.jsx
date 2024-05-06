@@ -66,7 +66,13 @@ const FilterComponent = ({ applyFilters }) => {
                         <MenuItem value="">All Employees</MenuItem>
                         <MenuItem value="1-10">1-10</MenuItem>
                         <MenuItem value="11-20">11-20</MenuItem>
-                        <MenuItem value="500+">500+</MenuItem>
+                        <MenuItem value="21-30">21-30</MenuItem>
+                        <MenuItem value="31-40">31-40</MenuItem>
+                        <MenuItem value="41-50">41-50</MenuItem>
+                        <MenuItem value="51-60">51-60</MenuItem>
+                        <MenuItem value="61-100">61-100</MenuItem>
+                        <MenuItem value="101-500">101-500</MenuItem>
+                        <MenuItem value="501+">501+</MenuItem>
                     </Select>
                 </FormControl>
             </Grid>
