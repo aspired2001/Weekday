@@ -1,4 +1,4 @@
-<h1>Project Name: <strong>My React App</strong></h1>
+<h1>Project Name: <strong>Weekday Job Filter</strong></h1>
 
 <p>This project is a React application built to provide a user interface for displaying job cards using data fetched from an API. Below are the instructions to start the project locally.</p>
 
