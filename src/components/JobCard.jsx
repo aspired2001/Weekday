@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import PropTypes from 'prop-types';
 import { Card, CardContent, Typography, Button } from '@material-ui/core';
 
@@ -97,7 +97,7 @@ JobCard.propTypes = {
         applyLink: PropTypes.string.isRequired,
         posted: PropTypes.string.isRequired,
         estimatedSalary: PropTypes.string.isRequired,
-        refferal: PropTypes.string.isRequired,
+        refferal: PropTypes.string,
     }).isRequired,
 };
 

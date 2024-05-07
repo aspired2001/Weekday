@@ -27,7 +27,7 @@ JobList.propTypes = {
             applyLink: PropTypes.string.isRequired,
             posted: PropTypes.string.isRequired,
             estimatedSalary: PropTypes.string.isRequired,
-            refferal: PropTypes.string.isRequired,
+            // refferal: PropTypes.string.isRequired,
         })
     ).isRequired,
 };

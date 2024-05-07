@@ -1,28 +1,26 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import { FormControl, InputLabel, Select, MenuItem, Button, TextField, Grid } from '@material-ui/core';
 
 const FilterComponent = ({ applyFilters }) => {
     const [selectedRole, setSelectedRole] = useState('');
-
     const [selectedEmployees, setSelectedEmployees] = useState('');
     const [selectedExperience, setSelectedExperience] = useState('');
     const [selectedWorkLocation, setSelectedWorkLocation] = useState('');
     const [selectedSalary, setSelectedSalary] = useState('');
     const [searchCompany, setSearchCompany] = useState('');
 
-    const handleApplyFilters = () => {
+    // Apply filters whenever any filter input changes
+    useEffect(() => {
         applyFilters({
             role: selectedRole,
-            
             employees: selectedEmployees,
             experience: selectedExperience,
             workLocation: selectedWorkLocation,
             salary: selectedSalary,
             searchCompany: searchCompany
         });
-    };
-
+    }, [selectedRole, selectedEmployees, selectedExperience, selectedWorkLocation, selectedSalary, searchCompany]);
     return (
         <Grid container spacing={2} alignItems="flex-end">
             <Grid item xs={12} sm={6} md={4} lg={2}>
@@ -142,9 +140,9 @@ const FilterComponent = ({ applyFilters }) => {
                 />
             </Grid>
 
-            <Grid item xs={12} sm={12} md={4} lg={2}>
+            {/* <Grid item xs={12} sm={12} md={4} lg={2}>
                 <Button fullWidth variant="contained" color="primary" onClick={handleApplyFilters}>Apply Filters</Button>
-            </Grid>
+            </Grid> */}
         </Grid>
     );
 };

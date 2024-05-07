@@ -10,7 +10,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"1-10"
+    "EmployeesNo":"1-10",
+    "Tech": "React"
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "16-21 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"1-10"
+    "EmployeesNo":"1-10",
+    "Tech": "Python"
   },
   {
     "id": 3,
@@ -36,7 +38,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "18-22 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"11-20"
+    "EmployeesNo":"11-20",
+    "Tech": "Python"
   },
   {
     "id": 4,
@@ -49,7 +52,9 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "17-23 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"11-20"
+    "EmployeesNo":"11-20",
+    "Tech": "NodeJs"
+
   },
   {
     "id": 5,
@@ -62,7 +67,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "16-24 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"21-30"
+    "EmployeesNo":"21-30",
+    "Tech": "NodeJs"
   },
   {
     "id": 6,
@@ -75,7 +81,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "18-25 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"21-30"
+    "EmployeesNo":"21-30",
+    "Tech": "NodeJs"
   },
   {
     "id": 7,
@@ -89,7 +96,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "17-26 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"21-30"
+    "EmployeesNo":"21-30",
+    "Tech": "Javascript"
   },
   {
     "id": 8,
@@ -102,7 +110,9 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "16-27 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"31-40"
+    "EmployeesNo":"31-40",
+     "Tech": "Javascript"
+
   },
   {
     "id": 9,
@@ -115,7 +125,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-28 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"31-40"
+    "EmployeesNo":"31-40",
+     "Tech": "Javascript"
   },
   {
     "id": 10,
@@ -128,7 +139,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "18-29 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"31-40"
+    "EmployeesNo":"31-40",
+     "Tech": "Javascript"
   },
   {
     "id": 11,
@@ -141,7 +153,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "18-25 lakhs",
     "posted": "posted 7 days ago",
-    "EmployeesNo":"31-40"
+    "EmployeesNo":"31-40",
+     "Tech": "Python"
   },
   {
     "id": 12,
@@ -154,7 +167,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "12-18 lakhs",
     "posted": "posted 9 days ago",
-    "EmployeesNo":"41-50"
+    "EmployeesNo":"41-50",
+     "Tech": "React"
   },
   {
     "id": 13,
@@ -167,7 +181,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "16-22 lakhs",
     "posted": "posted 6 days ago",
-    "EmployeesNo":"41-50"
+    "EmployeesNo":"41-50",
+    "Tech": "Python"
   },
   {
     "id": 14,
@@ -180,7 +195,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "10-15 lakhs",
     "posted": "posted 8 days ago",
-    "EmployeesNo":"41-50"
+    "EmployeesNo":"41-50",
+    "Tech": "Python"
   },
   {
     "id": 15,
@@ -193,7 +209,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "20-28 lakhs",
     "posted": "posted 5 days ago",
-    "EmployeesNo":"51-60"
+    "EmployeesNo":"51-60",
+    "Tech": "Python"
   },
   {
     "id": 16,
@@ -206,7 +223,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "14-20 lakhs",
     "posted": "posted 7 days ago",
-    "EmployeesNo":"51-60"
+    "EmployeesNo":"51-60",
+    "Tech": "AWS"
   },
   {
     "id": 17,
@@ -219,7 +237,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "12-18 lakhs",
     "posted": "posted 6 days ago",
-    "EmployeesNo":"61-100"
+    "EmployeesNo":"61-100",
+    "Tech": "AWS"
 
   },
   {
@@ -233,7 +252,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "16-22 lakhs",
     "posted": "posted 8 days ago",
-     "EmployeesNo":"61-100"
+     "EmployeesNo":"61-100",
+     "Tech": "React Native"
   },
   {
     "id": 19,
@@ -246,7 +266,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-21 lakhs",
     "posted": "posted 5 days ago",
-     "EmployeesNo":"61-100"
+     "EmployeesNo":"61-100",
+     "Tech": "Python"
   },
   {
     "id": 20,
@@ -259,7 +280,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "18-25 lakhs",
     "posted": "posted 9 days ago",
-     "EmployeesNo":"101-500"
+     "EmployeesNo":"101-500",
+     "Tech": "Angular.js"
   },
   {
     "id": 21,
@@ -272,7 +294,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "20-30 lakhs",
     "posted": "posted 4 days ago",
-    "EmployeesNo":"101-500"
+    "EmployeesNo":"101-500",
+    "Tech": "Data Science"
 
   },
   {
@@ -286,7 +309,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "25-35 lakhs",
     "posted": "posted 3 days ago",
-    "EmployeesNo":"101-500"
+    "EmployeesNo":"101-500",
+    "Tech": "Node.js"
   },
   {
     "id": 23,
@@ -299,7 +323,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "18-25 lakhs",
     "posted": "posted 5 days ago",
-    "EmployeesNo":"501+"
+    "EmployeesNo":"501+",
+    "Tech": "Solidity"
   },
   {
     "id": 24,
@@ -312,7 +337,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "22-32 lakhs",
     "posted": "posted 2 days ago",
-    "EmployeesNo":"501+"
+    "EmployeesNo":"501+",
+    "Tech": "Figma Sketch"
   },
   {
     "id": 25,
@@ -325,7 +351,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "20-28 lakhs",
     "posted": "posted 6 days ago",
-    "EmployeesNo":"501+"
+    "EmployeesNo":"501+",
+    "Tech": "AWS Azure AWS"
   },
   {
     "id": 26,
@@ -338,7 +365,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "18-25 lakhs",
     "posted": "posted 3 days ago",
-    "EmployeesNo":"501+"
+    "EmployeesNo":"501+",
+    "Tech": "Product Management Data Analysis AI Machine Learning"
   },
   {
     "id": 27,
@@ -351,7 +379,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "25-35 lakhs",
     "posted": "posted 4 days ago",
-    "EmployeesNo":"501+"
+    "EmployeesNo":"501+",
+    "Tech": "React Native Java/Kotlin Swift IOS Android"
   },
   {
     "id": 28,
@@ -364,7 +393,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "28-40 lakhs",
     "posted": "posted 2 days ago",
-    "EmployeesNo":"501+"
+    "EmployeesNo":"501+",
+    "Tech": "Python TensorFlow Keras PyTorch Scikit-learn"
   },
   {
     "id": 29,
@@ -377,7 +407,9 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "30-45 lakhs",
     "posted": "posted 5 days ago",
-    "EmployeesNo":"501+"
+    "EmployeesNo":"501+",
+    "Tech": "Angular React.js Vue.js JavaScript HTML CSS Web Design"
+
   },
   {
     "id": 30,
@@ -390,7 +422,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "25-35 lakhs",
     "posted": "posted 6 days ago",
-    "EmployeesNo":"501+"
+    "EmployeesNo":"501+",
+    "Tech": "Docker Kubernetes AWS Azure CI/CD Jenkins Git"
   },
   {
     "id":31,
@@ -403,7 +436,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"501+"
+    "EmployeesNo":"501+",
+    "Tech": "React.js"
   },
   {
     "id": 32,
@@ -416,7 +450,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"501+"
+    "EmployeesNo":"501+",
+    "Tech": "Angular.JS Node.JS Express.JS MongoDB"
   },
   {
     "id": 33,
@@ -429,7 +464,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"501+"
+    "EmployeesNo":"501+",
+    "Tech":"Python"
   },
   {
     "id": 34,
@@ -442,7 +478,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"501+"
+    "EmployeesNo":"501+",
+    "Tech": "Node.Js React.Js Ruby On Rails"
   },
   {
     "id": 35,
@@ -455,7 +492,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"501+"
+    "EmployeesNo":"501+",
+    "Tech": "Figma Sketch Adobe XD"
   },
   {
     "id": 36,
@@ -468,7 +506,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"501+"
+    "EmployeesNo":"501+",
+    "Tech": "Scrum Agile PMDA"
   },
   {
     "id": 37,
@@ -481,7 +520,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"501+"
+    "EmployeesNo":"501+",
+    "Tech": "Kubernetes Docker AWS Azure DevOps CI CD"
   },
   {
     "id": 38,
@@ -494,7 +534,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"501+"
+    "EmployeesNo":"501+",
+    "Tech": "React Native Flutter Kotlin Java Swift"
   },
   {
     "id": 39,
@@ -507,7 +548,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"101-500"
+    "EmployeesNo":"101-500",
+    "Tech": "Java Spring Boot Angular JS Node.js MongoDB MySQL PostgreSQL"
   },
   {
     "id": 40,
@@ -520,7 +562,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "15-20 lakhs",
     "posted": "posted 10 days ago",
-    "EmployeesNo":"101-500"
+    "EmployeesNo":"101-500",
+    "techStack": "Python TensorFlow Keras PyTorch Scikit-learn MATLAB R"
   },
   {
     "id": 41,
@@ -533,7 +576,9 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "$90,000 - $120,000 per year",
     "posted": "Posted 2 days ago",
-    "EmployeesNo":"101-500"
+    "EmployeesNo":"101-500",
+    "techStack": "AWS Azure Google Cloud Big Data Hadoop Spark SQL NoSQL MongoDB GraphQL RESTful API JSON Web Services "
+    
   },
   {
     "id": 42,
@@ -546,7 +591,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "£40,000 - £60,000 per year",
     "posted": "Posted 3 days ago",
-    "EmployeesNo":"101-500"
+    "EmployeesNo":"101-500",
+    "techStack": "Security"
   },
   {
     "id": 43,
@@ -559,7 +605,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "AU$100,000 - AU$130,000 per year",
     "posted": "Posted 4 days ago",
-    "EmployeesNo":"101-500"
+    "EmployeesNo":"101-500",
+    "techStack": "React.js | Node.js | MongoDB | Express.js | AngularJS | Vue.js"
   },
   {
     "id": 44,
@@ -572,7 +619,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "C$90,000 - C$110,000 per year",
     "posted": "Posted 5 days ago",
-    "EmployeesNo":"101-500"
+    "EmployeesNo":"101-500",
+    "techStack": "Digital marketing | Product management | Data analysis"
   },
   {
     "id": 45,
@@ -585,7 +633,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "₹10,00,000 - ₹15,00,000 per year",
     "posted": "Posted 6 days ago",
-    "EmployeesNo":"101-500"
+    "EmployeesNo":"101-500",
+    "techStack": "Docker | Kubernetes | AWS | Azure | Google Cloud Platform"
   },
   {
     "id": 46,
@@ -598,7 +647,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "$70,000 - $90,000 per year",
     "posted": "Posted 2 days ago",
-    "EmployeesNo":"101-500"
+    "EmployeesNo":"101-500",
+    "techStack": "Selenium WebDriver | JMeter | Jenkins | Git | Agile Methodology"
   },
   {
     "id": 47,
@@ -611,7 +661,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "£50,000 - £70,000 per year",
     "posted": "Posted 3 days ago",
-    "EmployeesNo":"101-500"
+    "EmployeesNo":"101-500",
+    "techStack": "Project Management | Scrum/Agile | Microsoft Office Suite | VMware vSphere | Cisco IOS"
   },
   {
     "id": 48,
@@ -624,7 +675,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "AU$80,000 - AU$110,000 per year",
     "posted": "Posted 4 days ago",
-    "EmployeesNo":"101-500"
+    "EmployeesNo":"101-500",
+    "techStack": "Adobe XD | Sketch | Figma | UIKit | React Native"
   },
   {
     "id": 49,
@@ -637,7 +689,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "C$60,000 - C$80,000 per year",
     "posted": "Posted 5 days ago",
-    "EmployeesNo":"101-500"
+    "EmployeesNo":"101-500",
+    "techStack": "Zendesk | Salesforce | Twitter API | Node.js | MongoDB"
   },
   {
     "id": 50,
@@ -650,7 +703,8 @@
     "refferal": "Unlock referal asks",
     "estimatedSalary": "₹8,00,000 - ₹12,00,000 per year",
     "posted": "Posted 6 days ago",
-    "EmployeesNo":"101-500"
+    "EmployeesNo":"101-500",
+    "techStack": "SQL Server | Tableau Software | Python | Power BI | Java"
   },
    {
     "id": 51,
@@ -663,7 +717,8 @@
     "referral": "Unlock referral asks",
     "estimatedSalary": "$70,000 - $90,000 per year",
     "posted": "Posted 3 days ago",
-    "EmployeesNo":"101-500"
+    "EmployeesNo":"101-500",
+    "techStack": "Java | Spring Boot | AngularJS | Docker | Kubernetes"
   },
   {
     "id": 52,
@@ -676,7 +731,8 @@
     "referral": "Unlock referral asks",
     "estimatedSalary": "CAD 80,000 - 100,000 per year",
     "posted": "Posted 4 days ago",
-    "EmployeesNo":"101-500"
+    "EmployeesNo":"101-500",
+    "techStack": "Python | R | DataViz | D3.js | AWS"
   },
   {
     "id": 53,
@@ -689,7 +745,9 @@
     "referral": "Unlock referral asks",
     "estimatedSalary": "INR 6 - 10 lakhs per annum",
     "posted": "Posted 5 days ago",
-    "EmployeesNo":"11-20"
+    "EmployeesNo":"11-20",
+    "techStack": "React JS | Node Js | Redux | MongoDB"
+    
   },
   {
     "id": 54,
@@ -702,7 +760,8 @@
     "referral": "Unlock referral asks",
     "estimatedSalary": "£35,000 - £45,000 per year",
     "posted": "Posted 6 days ago",
-    "EmployeesNo":"11-20"
+    "EmployeesNo":"11-20",
+    "techStack": "Google Ads | SEO | Social Media Marketing | Content Marketing"
   },
   {
     "id": 55,
@@ -715,7 +774,8 @@
     "referral": "Unlock referral asks",
     "estimatedSalary": "AUD 70,000 - 90,000 per year",
     "posted": "Posted 7 days ago",
-    "EmployeesNo":"11-20"
+    "EmployeesNo":"11-20",
+    "techStack": "Linux | Docker | AWS | Azure"
   },
   {
     "id": 56,
@@ -728,7 +788,8 @@
     "referral": "Unlock referral asks",
     "estimatedSalary": "$80,000 - $100,000 per year",
     "posted": "Posted 8 days ago",
-    "EmployeesNo":"11-20"
+    "EmployeesNo":"11-20",
+    "techStack": "Salesforce | CRM | Data Analytics | Project Management"
   },
   {
     "id": 57,
@@ -741,7 +802,8 @@
     "referral": "Unlock referral asks",
     "estimatedSalary": "CAD 65,000 - 85,000 per year",
     "posted": "Posted 9 days ago",
-    "EmployeesNo":"11-20"
+    "EmployeesNo":"11-20",
+    "techStack": "HTML/CSS | JavaScript | ReactJS | Sketch"
   },
   {
     "id": 58,
@@ -754,7 +816,8 @@
     "referral": "Unlock referral asks",
     "estimatedSalary": "INR 5 - 8 lakhs per annum",
     "posted": "Posted 10 days ago",
-    "EmployeesNo":"11-20"
+    "EmployeesNo":"11-20",
+    "techStack": "Python | Excel | SQL | Tableau"
   },
   {
     "id": 59,
@@ -767,7 +830,8 @@
     "referral": "Unlock referral asks",
     "estimatedSalary": "£25,000 - £35,000 per year",
     "posted": "Posted 11 days ago",
-    "EmployeesNo":"11-20"
+    "EmployeesNo":"11-20",
+    "techStack": "Agile Methodology | Jira | Confluence | Trello"
   },
   {
     "id": 60,
